@@ -17,7 +17,7 @@ class ProjectsScreen extends StatelessWidget {
     },
     {
       "name": "Magic App",
-      "desc": "It makes me magic! 1..2..3..boom!",
+      "desc": "It makes me magic! 1..2..3..boom!!",
       "stack": "Kotlin"
     },
   ];
